@@ -18,15 +18,15 @@ h1 {
 }
 
 .red {
-    background-color: red;
+    background: linear-gradient(red, pink, maroon);
 }
 
 .green {
-    background-color: green;
+    background: linear-gradient(green, lightgreen, olive);
 }
 
 .blue {
-    background-color: blue;
+    background: linear-gradient(blue, lightblue, dodgerblue);
 }
 
 .cap, .sleeve {
