@@ -7,7 +7,6 @@ h1 {
 }
 
 .container {
-    background-color: rgb(50, 50, 50);
     padding: 10px 0px 10px 0px;
 }
 
@@ -19,14 +18,17 @@ h1 {
 
 .red {
     background: linear-gradient(red, pink, maroon);
+    box-shadow: 0 0 20px 0 red;
 }
 
 .green {
     background: linear-gradient(green, lightgreen, olive);
+    box-shadow: 0 0 20px 0 green;
 }
 
 .blue {
     background: linear-gradient(blue, lightblue, dodgerblue);
+    box-shadow: 0 0 20px 0 blue;
 }
 
 .cap, .sleeve {
